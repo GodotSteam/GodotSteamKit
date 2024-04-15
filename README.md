@@ -16,7 +16,7 @@ Some of the main areas of functionality that is being considered:
 
 Want To Help?
 ---
-[You can join in the conversation on our Discord server in this thread.](https://discord.com/channels/564589037411893260/1229483827181654066)
+[You can join in the conversation on our Discord server in this thread](https://discord.com/channels/564589037411893260/1229483827181654066) or just [hop over to the Discussions tab and do so there!](https://github.com/GodotSteam/GodotSteam-Components/discussions)
 
 Once we begin building, the code will be available in this repo with different branches for each tool; not the best organization of such a project but they should be somewhat separated so people can use the ones they want without having to integrate them all.
 
